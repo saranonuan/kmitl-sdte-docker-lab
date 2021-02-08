@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world app with express 4",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "hello-world"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Chen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
