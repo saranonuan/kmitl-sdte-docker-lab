@@ -7,9 +7,6 @@
 # Set the base image to Ubuntu
 FROM ubuntu
 
-# File Author / Maintainer
-MAINTAINER Karthik Gaekwad
-
 # Install Nginx
 
 # COPY application repository URL to the default sources
